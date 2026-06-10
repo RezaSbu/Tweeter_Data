@@ -1,0 +1,17 @@
+Category,True_Positive,False_Positive,False_Negative,Precision,Recall,F1_Score,Classification_Type
+Unclassified,28,0,0,1.0,1.0,1.0,Harassment Type
+Sexual Assault/Rape,4,0,0,1.0,1.0,1.0,Harassment Type
+Verbal Harassment,10,0,0,1.0,1.0,1.0,Harassment Type
+Institutional Harassment,2,0,0,1.0,1.0,1.0,Harassment Type
+Domestic/Family Harassment,2,0,0,1.0,1.0,1.0,Harassment Type
+Physical Harassment,4,0,0,1.0,1.0,1.0,Harassment Type
+Empathy,1,0,0,1.0,1.0,1.0,Emotion
+Neutral,34,0,0,1.0,1.0,1.0,Emotion
+Fear,10,0,0,1.0,1.0,1.0,Emotion
+Sadness,2,0,0,1.0,1.0,1.0,Emotion
+Hope,3,0,0,1.0,1.0,1.0,Emotion
+True,0,0,0,0.0,0.0,0.0,Victim Blaming
+False,50,0,0,1.0,1.0,1.0,Victim Blaming
+First-person (Victim),18,0,0,1.0,1.0,1.0,Narrative Type
+Public Opinion/Reshare,21,0,0,1.0,1.0,1.0,Narrative Type
+News/Report,11,0,0,1.0,1.0,1.0,Narrative Type

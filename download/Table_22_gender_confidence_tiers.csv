@@ -1,0 +1,5 @@
+Gender_Confidence,Count,Pct,Confidence_Tier
+0.0,1267,22.2436797752809,Unknown
+0.5,361,6.337780898876405,Low (name)
+0.7,2010,35.287921348314605,Medium (pronoun)
+0.9,2058,36.13061797752809,High (username)

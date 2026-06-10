@@ -1,0 +1,8 @@
+WeekDayName,Tweet_Count,Mean_Toxicity,Victim_Blaming_Rate
+Monday,746,0.0109,0.0
+Tuesday,825,0.0065,0.0
+Wednesday,781,0.0042,0.13
+Thursday,808,0.0075,0.12
+Friday,864,0.011,0.12
+Saturday,810,0.0053,0.12
+Sunday,862,0.007,0.0

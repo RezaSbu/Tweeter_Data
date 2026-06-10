@@ -1,0 +1,11 @@
+,Location_Type,Tweet_Count,Percentage,Mean_Toxicity
+0,Prison,936,16.4%,0.007
+1,Park,773,13.6%,0.003
+2,Metro/Bus,705,12.4%,0.004
+3,Street,652,11.4%,0.005
+4,Workplace,472,8.3%,0.009
+5,University,431,7.6%,0.010
+6,Taxi,363,6.4%,0.004
+7,Home,220,3.9%,0.019
+8,School,182,3.2%,0.002
+9,Market,169,3.0%,0.006

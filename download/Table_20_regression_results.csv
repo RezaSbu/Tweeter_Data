@@ -1,0 +1,16 @@
+Model,Feature,Coefficient,Odds_Ratio
+Logistic (Is_Victim_Blaming),Year,-0.37804310474953984,0.6852009646133387
+Logistic (Is_Victim_Blaming),Toxicity,0.24238475741210644,1.2742843888706143
+Logistic (Is_Victim_Blaming),Gender_Male,-0.3686693219977396,0.6916540874308881
+Logistic (Is_Victim_Blaming),Gender_Female,0.17976291555928986,1.1969335551574216
+Logistic (Is_Victim_Blaming),Intercept,-7.484323826006564,0.000561822931620155
+Linear (Toxicity_Score),Year,0.00018245314795454866,
+Linear (Toxicity_Score),Gender_Male,0.0010823852748183121,
+Linear (Toxicity_Score),Gender_Female,0.002444394524904887,
+Linear (Toxicity_Score),HT_Verbal Harassment,0.006518157825319029,
+Linear (Toxicity_Score),HT_Physical Harassment,-0.001228397189280746,
+Linear (Toxicity_Score),HT_Sexual Assault/Rape,0.025974770438293153,
+Linear (Toxicity_Score),HT_Online Harassment,-0.011109825285574455,
+Linear (Toxicity_Score),HT_Institutional Harassment,-0.0009887247698257308,
+Linear (Toxicity_Score),HT_Domestic/Family Harassment,0.02927176628890485,
+Linear (Toxicity_Score),Intercept,-0.36683535567094216,R²=0.0394

@@ -1,0 +1,11 @@
+,City,Tweet_Count,Percentage,Dominant_Harassment_Type,Mean_Toxicity
+0,Tehran,998,17.5%,Unclassified,0.007
+1,Mashhad,482,8.5%,Unclassified,0.007
+2,Isfahan,399,7.0%,Unclassified,0.002
+3,Shiraz,324,5.7%,Unclassified,0.006
+4,Kerman,322,5.7%,Unclassified,0.007
+5,Tabriz,309,5.4%,Unclassified,0.009
+6,Qom,280,4.9%,Unclassified,0.011
+7,Karaj,277,4.9%,Unclassified,0.006
+8,Rasht,211,3.7%,Unclassified,0.008
+9,Kermanshah,191,3.4%,Unclassified,0.010

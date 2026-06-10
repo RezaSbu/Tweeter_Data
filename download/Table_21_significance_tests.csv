@@ -1,0 +1,4 @@
+Test,Statistic,p_value,df,Effect_Size,Effect_Size_Type,Significant,Bonferroni_Adjusted_p,Bonferroni_Significant
+Chi-square (Harassment Type × Period),24.13219736804442,0.00020477357344367376,5,0.08618339112693717,Cramer's V,True,0.0006143207203310213,True
+Mann-Whitney U (Toxicity: Female vs Male),2199572.0,0.0004829068998498237,,0.04167079417226772,Cohen's d,True,0.001448720699549471,True
+Proportion z-test (Fear: Female vs Male),-1.7950030667070849,0.07265321133207361,,-0.025305484267204248,Proportion difference,False,0.21795963399622084,False
